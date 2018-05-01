@@ -1,4 +1,4 @@
 # SampleApp
 
 
-New Git Repository for trainig.
+New Git Repository for training.
